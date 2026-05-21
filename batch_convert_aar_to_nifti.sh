@@ -29,7 +29,7 @@ set -o pipefail
 SRC_ROOT="/home/tahayori/Desktop/punim2955/Data/TrainSmart/Diffusion_Data"
 OUT_ROOT="/home/tahayori/Desktop/punim2955/Data/TrainSmart/Diffusion_Data/Nifti"
 
-AAR_JAR="/home/tahayori/Desktop/punim2955/Data/TrainSmart/Diffusion_Data/aar.jar"
+AAR_JAR="/home/tahayori/Desktop/punim2955/Data/TrainSmart/Diffusion_Data/Converting_aar_to_nifti/aar.jar"
 
 TMP_ROOT="${OUT_ROOT}/_tmp_extracted_dicoms"
 LOG_DIR="${OUT_ROOT}/logs"
